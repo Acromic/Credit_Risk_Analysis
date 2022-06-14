@@ -41,10 +41,10 @@ The fourth started the right direction again.<br>
 <img
 src="https://github.com/Acromic/Credit_Risk_Analysis/blob/1c57e3e34f6d69c46d56524dc0eaff04d2758d1d/resources/Combination%20(Over%20and%20Under)%20Sampling.png" width="50%" height="50%">
 <br>
-
 5 Balanced Random Forest Classifier results<br>
 <br>
-The fifth brought us back closer to 1 which is what we want.
+The fifth brought us back closer to 1 which is what we want.<br>
+<br>
 <img
 src="https://github.com/Acromic/Credit_Risk_Analysis/blob/983e989954cd52070a244db381b4c0094b15e48d/resources/Combination%20(Over%20and%20Under)%20Sampling.png" width="50%" height="50%">
 <br>

@@ -41,5 +41,6 @@ src="https://github.com/Acromic/Credit_Risk_Analysis/blob/983e989954cd52070a244d
 src="https://github.com/Acromic/Credit_Risk_Analysis/blob/a745af95549647a8530c50ecc0902cf6a68acc18/resources/Easy%20Ensemble%20AdaBoost%20Classifier.png" width="50%" height="50%">
 <br>
 
+With the examples shown above it. The first two models are a ways from our target 1 which would bring us with an accurate score. Models 
 
 ## Summary

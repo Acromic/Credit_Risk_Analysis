@@ -26,7 +26,10 @@ src="https://github.com/Acromic/Credit_Risk_Analysis/blob/5f0c45dc4823e468013dc3
 src="https://github.com/Acromic/Credit_Risk_Analysis/blob/5f0c45dc4823e468013dc3b6f7c2a173cabe52b1/resources/Undersampling.png" width="50%" height="50%">
 <br>
 
-4th machine learning model results
+4 Combination (Over and Under) Sampling results<br>
+<img
+src="https://github.com/Acromic/Credit_Risk_Analysis/blob/983e989954cd52070a244db381b4c0094b15e48d/resources/Combination%20(Over%20and%20Under)%20Sampling.png" width="50%" height="50%">
+<br>
 
 5th machine learning model results
 
